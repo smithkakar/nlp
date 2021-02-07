@@ -144,7 +144,6 @@ class ParserModel(nn.Module):
                                  without applying softmax (batch_size, n_classes)
         """
         # YOUR CODE HERE (~3-5 lines)
-        # TODO:
         # Complete the forward computation as described in write-up. In addition, include a dropout layer
         # as decleared in `__init__` after ReLU function.
         ###
